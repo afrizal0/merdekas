@@ -2,6 +2,7 @@
 
 Website ini menjelaskan mengenai runtutan sejarah Republik Indonesia dari yang pertama dijajah sampai merdeka
 ## Pengumpulan Lomba CuyUniverse 
+# Link Website: https://make-a-personal-website.muhammadafriz25.repl.co/
 
 | Title        |   | Description                    |   
 |--------------|---|--------------------------------|
